@@ -3,7 +3,7 @@
 
 
 ## Documentation
-To access the documentation, please visit the following link [SystemCAERUS Documentation](https://systemcaerus-documentation.netlify.app/installation.html)
+To access the documentation, please visit the following link [SystemCAERUS Documentation](https://systemcaerus-documentation.netlify.app/)
 
 
 ## Contributing
@@ -12,7 +12,7 @@ Contributions to the documentation are welcome! If you find any issues, errors, 
 
 ## Contact
 
-If you have any questions, feedback, or need further assistance, please contact us [systemcaerus@gmail.com] 
+If you have any questions, feedback, or need further assistance, please [contact us](https://systemcaerus-documentation.netlify.app/contact.html)
 
 Thank you for your interest in SystemCAERUS 
 
