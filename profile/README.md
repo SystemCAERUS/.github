@@ -1,5 +1,5 @@
 
-# Maintanance Analyzer
+# SystemCAERUS
 
 ## Documentation
 To access the documentation, please visit the following link [SystemCAERUS Documentation](https://systemcaerus-documentation.netlify.app/installation.html)
@@ -11,9 +11,9 @@ Contributions to the documentation are welcome! If you find any issues, errors, 
 
 ## Contact
 
-If you have any questions, feedback, or need further assistance, please refer to the [Contact Us](@gmail.com) file for different contact methods.
+If you have any questions, feedback, or need further assistance, please contact us [systemcaerus@gmail.com] 
 
-Thank you for your interest in SystemCAERUS and happy exploring the documentation!
+Thank you for your interest in SystemCAERUS 
 
 
 
