@@ -3,7 +3,7 @@
 
 
 ## Documentation
-To access the documentation, please visit the following link [SystemCAERUS Documentation](https://systemcaerus-documentation.netlify.app/)
+To access the documentation, please visit the following link [Documentation](https://systemcaerus-documentation.netlify.app/)
 
 
 ## Contributing
