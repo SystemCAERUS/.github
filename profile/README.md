@@ -1,5 +1,6 @@
 
-# SystemCAERUS
+![image](https://github.com/SystemCAERUS/.github/assets/88109775/e2ce8d22-d4c8-4f11-8f30-10ad4b3ef7a3)
+
 
 ## Documentation
 To access the documentation, please visit the following link [SystemCAERUS Documentation](https://systemcaerus-documentation.netlify.app/installation.html)
