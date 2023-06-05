@@ -8,7 +8,7 @@ To access the documentation, please visit the following link [Documentation](htt
 
 ## Contributing
 
-Contributions to the documentation are welcome! If you find any issues, errors, or have suggestions for improvement, please consider opening an issue or submitting a pull request. Your contributions will help make the documentation more comprehensive and user-friendly for the SystemCAERUS community.
+Contributions to the repositories are welcome! If you find any issues, errors, or have suggestions for improvement, please consider opening an issue or submitting a pull request. Your contributions will help make the project more comprehensive and user-friendly for the SystemCAERUS organization.
 
 ## Contact
 
